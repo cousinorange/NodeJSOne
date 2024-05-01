@@ -1,0 +1,19 @@
+{
+  "name": "nodejsone",
+  "version": "1.0.0",
+  "description": "first json file here",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/cousinorange/NodeJSOne.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cousinorange/NodeJSOne/issues"
+  },
+  "homepage": "https://github.com/cousinorange/NodeJSOne#readme"
+}
